@@ -31,9 +31,7 @@ public class PlayFoldingAnimation : MonoBehaviour
   public  void Stop1Animation()
   {
       _animator.SetBool("Bottom",false);
-      
-    
-        
+
   }
 
 }
