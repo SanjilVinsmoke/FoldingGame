@@ -8,3 +8,6 @@
 #### Features
 - Physics hands
 - Grabble objects and snapping socket 
+- Teleporation
+- TV interaction
+
