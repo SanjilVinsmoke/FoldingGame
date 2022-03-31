@@ -12,6 +12,7 @@ public class PlayAnimationBox : MonoBehaviour
     void Start()
     {
         _animator = GetComponent<Animator>();
+        
       
     }
 
@@ -20,10 +21,12 @@ public class PlayAnimationBox : MonoBehaviour
         _animator.SetTrigger("Box1");
         
         
+        
     }
     public void PlayAnimation2()
     {
         _animator.SetTrigger("Box2");
+        
     }
     public void PlayAnimation3()
     {
